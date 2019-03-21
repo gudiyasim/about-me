@@ -1,0 +1,27 @@
+em, strong, p {
+    background-color: white;
+    display: 
+    }
+  
+  body {
+    background-color: orangered;
+    color: red;
+  }
+  
+  h1 {
+    color: pink;
+  }
+  
+  h2 { 
+  color: blue;
+  font-style: italic;
+  }
+  
+  li {
+    color: rgb(5, 5, 5);
+  }
+  button {
+    display: block;
+    margin: 15px;
+  }
+  
